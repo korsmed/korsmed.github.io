@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name":"Daniel Korsmeier",
+    "occupation":"Master of Business Informatics Student",
+    "description":"I like playing around with Python, but other programming languages and frameworks are better for serious software. I have already been involved in several small software and other projects and have been able to manage some of them myself.",
+    "image":"profilepic.jpg",
+    "bio":"My name is Daniel Korsmeier, I am 28 years old and currently about to finish my business informatics studies. My hobbies are reading, gaming and social networking. I would like to work in a mixture of project management, software development and consulting, because I think this is very exciting.",
+    "contactmessage":"The best way to reach me is via e-mail",
+    "email": "contact@dkorsmeier.de",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"Arminiuspark",
+      "city":"Paderborn",
+      "state":"Nordrhein Westfalen",
+      "zip": "33175"
+    },
+    "website": "http://cv.dkorsmeier.de",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/daniel-korsmeier-4451b0147/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/danielkorsmeier/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/korsmed",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"xing",
+        "url":"https://www.xing.com/profile/Daniel_Korsmeier/",
+        "className":"fa fa-xing"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I like developing and project management in the general IT area.",
+    "education":[
+      {
+        "school":"University of Paderborn",
+        "degree":"Master of Science Business Informatics",
+        "graduated":"December 2019",
+        "description":""
+      },
+      {
+        "school":"University of Paderborn",
+        "degree":"Bachelor of Science Business Informatics",
+        "graduated":"April 2017",
+        "description":""
+      },
+      {
+        "school":"Gymnasium Delbrück",
+        "degree":"General Qualification For University Entrance",
+        "graduated":"April 2011",
+        "description":"Main Courses Informatics and Physics"
+      }
+    ],
+    "work":[
+      {
+        "company":"Service information Systems University Chair",
+        "title":"Scientific Assistant with Bachelors Degree (WHB)",
+        "years":"August 2017 - Present",
+        "description":"Tutor of Operational Information Systems and SAP ERP"
+      },
+      {
+        "company":"Service Information Systems University Chair",
+        "title":"Student Assistant (SHK)",
+        "years":"April 2016 - July 2017",
+        "description":"Tutor of Operational Information Systems and SAP ERP"
+      },
+      {
+        "company":"LOOK IN! GbR",
+        "title":"Project Manager",
+        "years":"January 2015 - January 2016",
+        "description":"IT Project Manager at a student job fair"
+      },
+      {
+        "company":"Benteler Steel / Tube",
+        "title":"Intern at Central IT",
+        "years":"February 2012 - August 2012",
+        "description":""
+      },
+      {
+        "company":"Benteler Steel / Tube",
+        "title":"Intern at the warm operation",
+        "years":"August 2011 - January 2012",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"Mysql/MariaDB",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"C# .NET Framework",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"40%"
+      },
+      {
+        "name":"PHP",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"LOOK IN! Backend",
+        "category":"A CMS and helpful Backend for the LOOK IN! GbR",
+        "image":"lookin.png",
+        "url":"https://github.com/korsmed/lookin-pb"
+      },
+      {
+        "title":"BuFaK API",
+        "category":"An API for handling and organizing Conferences",
+        "image":"bufakapi.png",
+        "url":"https://github.com/bufak-wiso/bufakapi"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
